@@ -1,2 +1,30 @@
-# Mayarabraga
-Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre), com foco em aprender programação e desenvolver projetos práticos.  Tenho familiaridade com linguagem C e estou em constante evolução na área de tecnologia.  Busco minha primeira oportunidade como estagiária para ganhar experiência e crescer profissionalmente.
+# Olá, eu sou a Mayara 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
+💻 Atualmente estudando programação em C
+📚 Aprendendo Git, GitHub e desenvolvimento Front-End
+🚀 Em busca da primeira oportunidade na área de tecnologia
+
+---
+
+## 💻 Tecnologias que estou aprendendo
+
+* Linguagem C
+* Git e GitHub
+* HTML
+* CSS
+
+---
+
+## 🌱 Atualmente
+
+* Fazendo exercícios de lógica de programação
+* Aprendendo mais sobre desenvolvimento web
+* Criando projetos para meu portfólio
+
+---
+
+## 📫 Contato
+
+
+* Email: mayara.batistabragaa@gmail.com
